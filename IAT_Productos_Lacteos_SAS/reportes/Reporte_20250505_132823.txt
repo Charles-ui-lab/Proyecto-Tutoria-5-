@@ -1,0 +1,52 @@
+=== REPORTE DE PRODUCTOS LÁCTEOS ===
+Fecha generación: Mon May 05 13:28:23 GMT-05:00 2025
+Total productos: 6
+
+ID: 1
+Tipo: Yogurt
+ID: 1
+Nombre: Yugoso
+Tipo: Yogurt
+Horas fermentación: 12
+----------------------------
+ID: 2
+Tipo: Kumis
+ID: 2
+Nombre: Kumisiño
+Tipo: Kumis
+Horas fermentación: 14
+----------------------------
+ID: 3
+Tipo: ProductoLacteoConSabor
+ID: 3
+Nombre: YogoFruit
+Tipo: Producto con sabor
+Horas fermentación: 10
+Sabores: Guanabana, Papaya, Melon
+Contiene frutas: Sí
+Lleva azúcar: Sí
+----------------------------
+ID: 4
+Tipo: Yogurt
+ID: 4
+Nombre: Yugoso
+Tipo: Yogurt
+Horas fermentación: 12
+----------------------------
+ID: 5
+Tipo: Kumis
+ID: 5
+Nombre: Kumisiño
+Tipo: Kumis
+Horas fermentación: 10
+----------------------------
+ID: 6
+Tipo: ProductoLacteoConSabor
+ID: 6
+Nombre: YugoFruit
+Tipo: Producto con sabor
+Horas fermentación: 8
+Sabores: Guanabana, Papaya, Banano
+Contiene frutas: Sí
+Lleva azúcar: Sí
+----------------------------

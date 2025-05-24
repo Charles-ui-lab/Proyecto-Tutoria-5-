@@ -1,0 +1,86 @@
+=== GESTIÓN DE PRODUCCIÓN  REPORTE DE PRODUCTOS LÁCTEOS ===
+Fecha generación: Tue May 13 19:20:16 GMT-05:00 2025
+Total productos: 10
+
+ID: 1
+Tipo: Yogurt
+ID: 1
+Nombre: Yugoso
+Tipo: Yogurt
+Horas fermentación: 12
+----------------------------
+ID: 2
+Tipo: Kumis
+ID: 2
+Nombre: Kumisiño
+Tipo: Kumis
+Horas fermentación: 14
+----------------------------
+ID: 3
+Tipo: ProductoLacteoConSabor
+ID: 3
+Nombre: YogoFruit
+Tipo: Producto con sabor
+Horas fermentación: 10
+Sabores: Guanabana, Papaya, Melon
+Contiene frutas: Sí
+Lleva azúcar: Sí
+----------------------------
+ID: 4
+Tipo: Yogurt
+ID: 4
+Nombre: Yugoso
+Tipo: Yogurt
+Horas fermentación: 12
+----------------------------
+ID: 5
+Tipo: Kumis
+ID: 5
+Nombre: Kumisiño
+Tipo: Kumis
+Horas fermentación: 10
+----------------------------
+ID: 6
+Tipo: ProductoLacteoConSabor
+ID: 6
+Nombre: YugoFruit
+Tipo: Producto con sabor
+Horas fermentación: 8
+Sabores: Guanabana, Papaya, Banano
+Contiene frutas: Sí
+Lleva azúcar: Sí
+----------------------------
+ID: 7
+Tipo: Yogurt
+ID: 7
+Nombre: Yugoso
+Tipo: Yogurt
+Horas fermentación: 8
+----------------------------
+ID: 8
+Tipo: Kumis
+ID: 8
+Nombre: Kumisiño
+Tipo: Kumis
+Horas fermentación: 10
+----------------------------
+ID: 9
+Tipo: ProductoLacteoConSabor
+ID: 9
+Nombre: YugoFruit
+Tipo: Producto con sabor
+Horas fermentación: 10
+Sabores: Piña, Guanabana, Papaya
+Contiene frutas: Sí
+Lleva azúcar: Sí
+----------------------------
+ID: 10
+Tipo: ProductoLacteoConSabor
+ID: 10
+Nombre: YugoFrutassinAzucar
+Tipo: Producto con sabor
+Horas fermentación: 9
+Sabores: Pera, Guayaba, Durazno
+Contiene frutas: Sí
+Lleva azúcar: No
+----------------------------

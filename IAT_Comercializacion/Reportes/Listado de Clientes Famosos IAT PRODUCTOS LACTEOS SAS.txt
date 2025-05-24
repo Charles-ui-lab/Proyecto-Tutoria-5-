@@ -1,0 +1,52 @@
+Reporte de Clientes
+===================
+
+ID: 777
+Nombre: Krosty El Payaso
+Tipo Cliente: Mayorista
+Monto Compra: 25000000.00
+Dirección: Springfield
+Teléfono: 301533
+-----------------------------
+ID: 888
+Nombre: Homero Simpson
+Tipo Cliente: Minorista
+Monto Compra: 15000000.00
+Dirección: Springfield Calle Alegria
+Teléfono: 30153343
+-----------------------------
+ID: 6969
+Nombre: Shakira
+Tipo Cliente: Mayorista
+Monto Compra: 23000000.00
+Dirección: Barranquilla
+Teléfono: 30153343
+-----------------------------
+ID: 9696
+Nombre: Gerard Pique
+Tipo Cliente: Mayorista
+Monto Compra: 21000000.00
+Dirección: Barcelona
+Teléfono: 30153343
+-----------------------------
+ID: 444
+Nombre: Cristiano Ronaldo
+Tipo Cliente: Mayorista
+Monto Compra: 32000000.00
+Dirección: Kwait
+Teléfono: 30153343
+-----------------------------
+ID: 555
+Nombre: Esperanza Gomez
+Tipo Cliente: Minorista
+Monto Compra: 15000000.00
+Dirección: Pereira
+Teléfono: 30153343
+-----------------------------
+ID: 333
+Nombre: Sofia Vergara
+Tipo Cliente: Minorista
+Monto Compra: 14000000.00
+Dirección: Miami
+Teléfono: 30153343
+-----------------------------

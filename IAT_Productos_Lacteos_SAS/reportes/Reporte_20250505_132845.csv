@@ -1,0 +1,7 @@
+ID,Tipo,Nombre,Horas Fermentación,Sabores,Contiene Frutas,Lleva Azúcar
+1,Yogurt,"Yugoso",12,N/A,N/A,N/A
+2,Kumis,"Kumisiño",14,N/A,N/A,N/A
+3,ProductoLacteoConSabor,"YogoFruit",10,"Guanabana;Papaya;Melon",Sí,Sí
+4,Yogurt,"Yugoso",12,N/A,N/A,N/A
+5,Kumis,"Kumisiño",10,N/A,N/A,N/A
+6,ProductoLacteoConSabor,"YugoFruit",8,"Guanabana;Papaya;Banano",Sí,Sí
